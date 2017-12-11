@@ -1,0 +1,66 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/xiaochen/Downloads/OOP345/Milestone 1/345_ms1_main_prof.cpp
+iostream
+-
+fstream
+-
+string
+-
+memory
+-
+vector
+-
+Task.h
+/Users/xiaochen/Downloads/OOP345/Milestone 1/Task.h
+Utilities.h
+/Users/xiaochen/Downloads/OOP345/Milestone 1/Utilities.h
+
+/Users/xiaochen/Downloads/OOP345/Milestone 1/Task.cpp
+iostream
+-
+string
+-
+thread
+-
+chrono
+-
+vector
+-
+iomanip
+-
+Task.h
+/Users/xiaochen/Downloads/OOP345/Milestone 1/Task.h
+Utilities.h
+/Users/xiaochen/Downloads/OOP345/Milestone 1/Utilities.h
+
+/Users/xiaochen/Downloads/OOP345/Milestone 1/Task.h
+iostream
+-
+string
+-
+
+/Users/xiaochen/Downloads/OOP345/Milestone 1/Utilities.cpp
+iostream
+-
+string
+-
+fstream
+-
+istream
+-
+Utilities.h
+/Users/xiaochen/Downloads/OOP345/Milestone 1/Utilities.h
+
+/Users/xiaochen/Downloads/OOP345/Milestone 1/Utilities.h
+string
+-
+fstream
+-
+

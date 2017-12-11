@@ -1,0 +1,10 @@
+
+In line number 45 of your output:
+The output should be:
+*** Validate [Motherboard] @ [Power Supply] ***
+But your output is: 
+*** Validate[Motherboard] @ [Power Supply] ***
+            ^
+------------|
+Professor's character ASCII code: hex(20), dec(32)
+un-matched character ASCII code: hex(5b), dec(91)
